@@ -1,0 +1,22 @@
+.login {
+  margin: auto;
+  width: 30%;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  background-color: orange;
+  max-height: 80vh;
+  overflow: hidden;
+  overflow-y: scroll;
+  li {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+textarea {
+  width: 90%;
+}
